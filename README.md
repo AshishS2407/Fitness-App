@@ -49,24 +49,14 @@ Admin Features
         View and manage messages sent through the Contact Us page.
 
 
-* Features *
-
-
-User authentication (sign up, login, logout)
-Watch Workout Videos
-View Articles
-View Diet Plans
-Send Message Option
-Admin Dashboard
-
-*Technologies Used*
+Technologies Used
  
 Frontend: React.js
 Backend: Node.js, Express.js
 Database: MongoDB
 Containerization: Docker
 
-*Getting Started*
+Getting Started
 
   1.Clone the Repository
   2.Docker Setup
@@ -75,7 +65,7 @@ Containerization: Docker
       Once the containers are up and running, you can access the application at:localhost:3000
 
 
-* Note  *
+ Note  
 
     1. Json files needed to be imported to to the mongodb compass so as to view existing files.
     2. Videos is not pushed to git hub due to size issues, so wont be able to watch it. 

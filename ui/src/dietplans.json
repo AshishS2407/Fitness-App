@@ -1,0 +1,242 @@
+[
+  {
+    "dietplanId": "1",
+    "title": "Weight Gain Diet Plan for 60-90 kg Individuals",
+    "plan": "Standard Weight Gain Plan",
+    "createdBy": "Coach Emma Roberts",
+    "content": "To effectively gain weight, individuals weighing between 60-90 kg should focus on a high-calorie diet with balanced macronutrients...",
+    "category": "light weight gain"
+  },
+  {
+    "dietplanId": "2",
+    "title": "High-Calorie Diet Plan for Muscle Growth",
+    "plan": "Muscle Gain Focus",
+    "createdBy": "Coach John Smith",
+    "content": "This high-calorie diet plan is designed to support muscle growth for individuals weighing between 60-90 kg...",
+    "category": "light weight gain"
+  },
+  {
+    "dietplanId": "3",
+    "title": "Balanced Diet Plan for Steady Weight Gain",
+    "plan": "Steady Gain Plan",
+    "createdBy": "Coach Sarah Johnson",
+    "content": "A balanced diet plan for steady weight gain should include a mix of proteins, carbohydrates, and fats...",
+    "category": "light weight gain"
+  },
+  {
+    "dietplanId": "4",
+    "title": "Protein-Rich Diet Plan for Weight Gain",
+    "plan": "Protein Gain Plan",
+    "createdBy": "Coach Mike Brown",
+    "content": "This protein-rich diet plan is aimed at helping individuals gain weight by focusing on high-protein foods...",
+    "category": "light weight gain"
+  },
+  {
+    "dietplanId": "5",
+    "title": "Calorie-Dense Diet Plan for Rapid Weight Gain",
+    "plan": "Rapid Gain Plan",
+    "createdBy": "Coach Lisa Williams",
+    "content": "A calorie-dense diet plan tailored for rapid weight gain includes high-calorie foods that are nutrient-rich...",
+    "category": "light weight gain"
+  },
+  {
+    "dietplanId": "6",
+    "title": "Healthy Fats Diet Plan for Weight Gain",
+    "plan": "Healthy Fats Focus",
+    "createdBy": "Coach Kevin Davis",
+    "content": "This diet plan emphasizes healthy fats to help individuals gain weight in a healthy and sustainable manner...",
+    "category": "light weight gain"
+  },
+  {
+    "dietplanId": "7",
+    "title": "Low-Calorie Diet Plan for Weight Loss",
+    "plan": "Low-Calorie Focus",
+    "createdBy": "Coach Emily Clark",
+    "content": "A low-calorie diet plan designed for individuals looking to lose weight by reducing their daily calorie intake...",
+    "category": "light weight loss"
+  },
+  {
+    "dietplanId": "8",
+    "title": "Keto Diet Plan for Weight Loss",
+    "plan": "Keto Focus",
+    "createdBy": "Coach Andrew Lee",
+    "content": "The keto diet plan promotes weight loss by encouraging the body to burn fats instead of carbohydrates...",
+    "category": "light weight loss"
+  },
+  {
+    "dietplanId": "9",
+    "title": "High-Protein Diet Plan for Weight Loss",
+    "plan": "Protein Focus",
+    "createdBy": "Coach Rachel Green",
+    "content": "This high-protein diet plan is aimed at individuals looking to lose weight while preserving muscle mass...",
+    "category": "light weight loss"
+  },
+  {
+    "dietplanId": "10",
+    "title": "Vegetarian Diet Plan for Weight Loss",
+    "plan": "Vegetarian Focus",
+    "createdBy": "Coach Michael Scott",
+    "content": "A vegetarian diet plan tailored for weight loss that focuses on plant-based foods rich in nutrients and low in calories...",
+    "category": "light weight loss"
+  },
+  {
+    "dietplanId": "11",
+    "title": "Low-Carb Diet Plan for Weight Loss",
+    "plan": "Low-Carb Focus",
+    "createdBy": "Coach Monica Geller",
+    "content": "This low-carb diet plan encourages weight loss by reducing carbohydrate intake and promoting fat burning...",
+    "category": "light weight loss"
+  },
+  {
+    "dietplanId": "12",
+    "title": "Mediterranean Diet Plan for Weight Loss",
+    "plan": "Mediterranean Focus",
+    "createdBy": "Coach Chandler Bing",
+    "content": "The Mediterranean diet plan emphasizes healthy eating patterns that can lead to sustainable weight loss...",
+    "category": "light weight loss"
+  },
+  {
+    "dietplanId": "13",
+    "title": "Muscle Gain Diet Plan for 90-120 kg Individuals",
+    "plan": "Muscle Gain Plan",
+    "createdBy": "Coach Ross Geller",
+    "content": "This diet plan is specifically designed for individuals between 90-120 kg who are looking to gain muscle mass...",
+    "category": "medium weight gain"
+  },
+  {
+    "dietplanId": "14",
+    "title": "Bulking Diet Plan for Muscle Mass Increase",
+    "plan": "Bulking Focus",
+    "createdBy": "Coach Joey Tribbiani",
+    "content": "A bulking diet plan aimed at increasing muscle mass by focusing on high-calorie, nutrient-dense foods...",
+    "category": "medium weight gain"
+  },
+  {
+    "dietplanId": "15",
+    "title": "Strength Training Diet Plan for Muscle Gain",
+    "plan": "Strength Gain Plan",
+    "createdBy": "Coach Phoebe Buffay",
+    "content": "This diet plan supports strength training efforts by providing the necessary nutrients for muscle gain...",
+    "category": "medium weight gain"
+  },
+  {
+    "dietplanId": "16",
+    "title": "Lean Muscle Diet Plan for Steady Gain",
+    "plan": "Lean Gain Plan",
+    "createdBy": "Coach Ross Geller",
+    "content": "A diet plan focused on lean muscle gain, suitable for individuals looking to increase muscle mass steadily...",
+    "category": "medium weight gain"
+  },
+  {
+    "dietplanId": "17",
+    "title": "High-Protein Diet Plan for Muscle Building",
+    "plan": "Protein Muscle Gain",
+    "createdBy": "Coach Joey Tribbiani",
+    "content": "This high-protein diet plan is designed to fuel muscle building for individuals engaged in regular strength training...",
+    "category": "medium weight gain"
+  },
+  {
+    "dietplanId": "18",
+    "title": "Nutrient-Dense Diet Plan for Muscle Gain",
+    "plan": "Nutrient Gain Plan",
+    "createdBy": "Coach Chandler Bing",
+    "content": "A nutrient-dense diet plan tailored for individuals looking to gain muscle while maintaining overall health...",
+    "category": "medium weight gain"
+  },
+  {
+    "dietplanId": "19",
+    "title": "Low-Calorie Diet Plan for Weight Loss",
+    "plan": "Low-Calorie Focus",
+    "createdBy": "Coach Rachel Green",
+    "content": "A low-calorie diet plan designed for individuals looking to lose weight by reducing their daily calorie intake...",
+    "category": "medium weight loss"
+  },
+  {
+    "dietplanId": "20",
+    "title": "Vegan Diet Plan for Weight Loss",
+    "plan": "Vegan Focus",
+    "createdBy": "Coach Phoebe Buffay",
+    "content": "This vegan diet plan is aimed at individuals looking to lose weight while following a plant-based lifestyle...",
+    "category": "medium weight loss"
+  },
+  {
+    "dietplanId": "21",
+    "title": "Paleo Diet Plan for Weight Loss",
+    "plan": "Paleo Focus",
+    "createdBy": "Coach Ross Geller",
+    "content": "A paleo diet plan that encourages weight loss by focusing on whole, unprocessed foods that are nutrient-rich...",
+    "category": "medium weight loss"
+  },
+  {
+    "dietplanId": "22",
+    "title": "Intermittent Fasting Diet Plan for Weight Loss",
+    "plan": "Fasting Focus",
+    "createdBy": "Coach Chandler Bing",
+    "content": "An intermittent fasting diet plan that helps individuals lose weight by limiting eating to specific time windows...",
+    "category": "medium weight loss"
+  },
+  {
+    "dietplanId": "23",
+    "title": "Low-Fat Diet Plan for Weight Loss",
+    "plan": "Low-Fat Focus",
+    "createdBy": "Coach Monica Geller",
+    "content": "A low-fat diet plan designed to promote weight loss by reducing fat intake while maintaining a balanced diet...",
+    "category": "medium weight loss"
+  },
+  {
+    "dietplanId": "24",
+    "title": "High-Fiber Diet Plan for Weight Loss",
+    "plan": "Fiber Focus",
+    "createdBy": "Coach Rachel Green",
+    "content": "This high-fiber diet plan is designed to promote weight loss by increasing fiber intake, which helps in digestion and satiety...",
+    "category": "medium weight loss"
+  },
+  {
+    "dietplanId": "25",
+    "title": "Extreme Weight Loss Diet Plan",
+    "plan": "Extreme Loss Focus",
+    "createdBy": "Coach Andrew Lee",
+    "content": "An extreme weight loss diet plan for individuals looking to lose a significant amount of weight in a short period...",
+    "category": "heavy weight loss"
+  },
+  {
+    "dietplanId": "26",
+    "title": "Rapid Weight Loss Diet Plan",
+    "plan": "Rapid Loss Focus",
+    "createdBy": "Coach Michael Scott",
+    "content": "A rapid weight loss diet plan that focuses on a strict calorie deficit to promote fast weight loss...",
+    "category": "heavy weight loss"
+  },
+  {
+    "dietplanId": "27",
+    "title": "Detox Diet Plan for Weight Loss",
+    "plan": "Detox Focus",
+    "createdBy": "Coach Lisa Williams",
+    "content": "A detox diet plan designed to cleanse the body and promote weight loss by focusing on nutrient-dense, detoxifying foods...",
+    "category": "heavy weight loss"
+  },
+  {
+    "dietplanId": "28",
+    "title": "High-Intensity Diet Plan for Weight Loss",
+    "plan": "High-Intensity Focus",
+    "createdBy": "Coach Kevin Davis",
+    "content": "This high-intensity diet plan is aimed at individuals looking to lose weight quickly through a combination of diet and exercise...",
+    "category": "heavy weight loss"
+  },
+  {
+    "dietplanId": "29",
+    "title": "Low-Carb, High-Protein Diet Plan for Weight Loss",
+    "plan": "Carb-Protein Balance",
+    "createdBy": "Coach Emily Clark",
+    "content": "A low-carb, high-protein diet plan designed to promote weight loss by balancing macronutrients to support fat loss...",
+    "category": "heavy weight loss"
+  },
+  {
+    "dietplanId": "30",
+    "title": "Vegetable-Based Diet Plan for Weight Loss",
+    "plan": "Veggie Focus",
+    "createdBy": "Coach Andrew Lee",
+    "content": "A vegetable-based diet plan focused on promoting weight loss by incorporating a variety of low-calorie, nutrient-rich vegetables...",
+    "category": "heavy weight loss"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "articleId": "1",
+    "title": "Gaining Weight: A Comprehensive Guide",
+    "description": "This article provides an in-depth guide on gaining weight for individuals under 60 kg. It covers nutritional tips, exercise routines, and lifestyle changes necessary for healthy weight gain.",
+    "createdBy": "Coach John Doe",
+    "content": "This comprehensive guide offers strategies for individuals under 60 kg to gain weight effectively. It includes nutritional tips such as increasing calorie intake with nutrient-dense foods, exercise routines that focus on strength training, and lifestyle changes like adequate sleep and stress management.",
+    "category": "light weight gain"
+  },
+  {
+    "articleId": "2",
+    "title": "Top 10 Foods to Help You Gain Weight",
+    "description": "Discover the top 10 foods that can help you gain weight healthily. This article lists nutrient-dense foods that are essential for increasing muscle mass and overall body weight.",
+    "createdBy": "Coach Jane Smith",
+    "content": "This article lists ten nutrient-dense foods that are beneficial for healthy weight gain. These foods are high in calories and essential nutrients, aiding in muscle growth and overall weight increase. Examples might include avocados, nuts, and lean meats.",
+    "category": "light weight gain"
+  },
+  {
+    "articleId": "3",
+    "title": "Strength Training for Weight Gain",
+    "description": "Learn how strength training can aid in weight gain for individuals under 60 kg. This article includes workout plans, tips on lifting techniques, and how to progressively increase weight for optimal results.",
+    "createdBy": "Coach Mark Lee",
+    "content": "Strength training is crucial for weight gain in individuals under 60 kg. The article provides workout plans focused on resistance exercises, tips on proper lifting techniques to avoid injury, and guidance on how to gradually increase weights to ensure continuous muscle growth.",
+    "category": "light weight gain"
+  },
+  {
+    "articleId": "4",
+    "title": "Meal Planning for Weight Gain",
+    "description": "Effective meal planning is crucial for gaining weight. This article provides sample meal plans, calorie goals, and tips on how to prepare meals that will help you achieve your weight gain goals.",
+    "createdBy": "Coach Emily Clark",
+    "content": "Meal planning for weight gain involves creating sample meal plans that meet calorie goals and include nutrient-rich foods. The article offers tips on meal preparation to ensure that meals are balanced and support your weight gain objectives.",
+    "category": "light weight gain"
+  },
+  {
+    "articleId": "5",
+    "title": "Common Mistakes in Weight Gain Journey",
+    "description": "Avoid these common mistakes when trying to gain weight. This article highlights the pitfalls and provides solutions to ensure your weight gain journey is successful and sustainable.",
+    "createdBy": "Coach David Brown",
+    "content": "Common mistakes in the weight gain journey include insufficient calorie intake, neglecting strength training, and ignoring meal planning. The article provides solutions such as adjusting calorie intake, focusing on resistance exercises, and creating a structured meal plan to overcome these pitfalls and ensure sustainable weight gain.",
+    "category": "light weight gain"
+  },
+  {
+    "articleId": "6",
+    "title": "Supplements for Healthy Weight Gain",
+    "description": "Explore the role of supplements in aiding weight gain. This article discusses different supplements that can support your diet and exercise routine to help you gain weight effectively.",
+    "createdBy": "Coach Sarah Johnson",
+    "content": "Supplements can play a role in healthy weight gain by providing additional nutrients that support muscle growth and overall health. The article covers various supplements such as protein powders, creatine, and mass gainers, and discusses how they can complement your diet and exercise regimen.",
+    "category": "light weight gain"
+  },
+  {
+    "articleId": "7",
+    "title": "Effective Weight Loss Strategies for 60-90 kg Individuals",
+    "description": "This article provides a comprehensive guide on effective weight loss strategies for individuals weighing between 60-90 kg. It covers dietary adjustments, exercise routines, and lifestyle changes necessary for healthy weight loss.",
+    "createdBy": "Coach Laura Wilson",
+    "content": "For individuals weighing between 60-90 kg, effective weight loss strategies include making dietary adjustments to reduce calorie intake while maintaining nutrition, incorporating regular exercise routines that combine cardio and strength training, and making lifestyle changes such as improving sleep quality and managing stress.",
+    "category": "light weight loss"
+  },
+  {
+    "articleId": "8",
+    "title": "Top 10 Foods for Healthy Weight Loss",
+    "description": "Discover the top 10 foods that can help you lose weight healthily. This article lists nutrient-dense foods that are essential for maintaining muscle mass while shedding excess fat.",
+    "createdBy": "Coach Michael Johnson",
+    "content": "This article lists ten nutrient-dense foods that support healthy weight loss. These foods help maintain muscle mass and promote fat loss. Examples include lean proteins, vegetables, and whole grains, which are low in calories but high in essential nutrients.",
+    "category": "light weight loss"
+  },
+  {
+    "articleId": "9",
+    "title": "Cardio Workouts for Weight Loss",
+    "description": "Learn how cardio workouts can aid in weight loss for individuals weighing between 60-90 kg. This article includes workout plans, tips on different cardio exercises, and how to effectively burn calories for optimal results.",
+    "createdBy": "Coach Rachel Adams",
+    "content": "Cardio workouts are effective for weight loss in individuals weighing between 60-90 kg. The article includes various workout plans such as running, cycling, and swimming, along with tips on how to perform these exercises to maximize calorie burn and achieve optimal weight loss results.",
+    "category": "light weight loss"
+  },
+  {
+    "articleId": "10",
+    "title": "Meal Planning for Weight Loss",
+    "description": "Effective meal planning is crucial for losing weight. This article provides sample meal plans, calorie goals, and tips on how to prepare meals that will help you achieve your weight loss goals.",
+    "createdBy": "Coach Steven Clark",
+    "content": "Effective meal planning for weight loss involves creating meal plans that align with calorie goals and include healthy, low-calorie foods. The article provides sample meal plans and tips on meal preparation to ensure that meals support your weight loss goals.",
+    "category": "light weight loss"
+  },
+  {
+    "articleId": "11",
+    "title": "Common Mistakes in Weight Loss Journey",
+    "description": "Avoid these common mistakes when trying to lose weight. This article highlights the pitfalls and provides solutions to ensure your weight loss journey is successful and sustainable.",
+    "createdBy": "Coach Angela Brown",
+    "content": "Common mistakes in the weight loss journey include skipping meals, not tracking progress, and following fad diets. The article provides solutions such as consistent meal planning, tracking your weight loss progress, and adopting sustainable eating habits for long-term success.",
+    "category": "light weight loss"
+  },
+  {
+    "articleId": "12",
+    "title": "Supplements for Healthy Weight Loss",
+    "description": "Explore the role of supplements in aiding weight loss. This article discusses different supplements that can support your diet and exercise routine to help you lose weight effectively.",
+    "createdBy": "Coach Paul Anderson",
+    "content": "Supplements can support weight loss by providing additional nutrients that enhance your diet and exercise routine. The article discusses various supplements like fat burners, appetite suppressants, and protein powders, and how they can aid in effective weight loss.",
+    "category": "light weight loss"
+  },
+  {
+    "articleId": "13",
+    "title": "Weight Loss Tips for Individuals Below 60 kg",
+    "description": "This article provides specialized weight loss tips for individuals weighing below 60 kg. It covers dietary modifications, exercise routines, and lifestyle changes essential for achieving a healthy weight loss.",
+    "createdBy": "Coach Linda Martinez",
+    "content": "For individuals below 60 kg, weight loss tips include modifying your diet to include more fiber and protein, incorporating exercises that boost metabolism, and making lifestyle changes such as increasing physical activity and improving sleep quality.",
+    "category": "medium weight loss"
+  },
+  {
+    "articleId": "14",
+    "title": "Healthy Foods for Weight Loss Under 60 kg",
+    "description": "Discover the healthiest foods to aid weight loss for individuals below 60 kg. This article lists nutrient-dense foods that help in losing weight while maintaining overall health.",
+    "createdBy": "Coach Robert Green",
+    "content": "The article lists nutrient-dense foods that support weight loss for individuals below 60 kg. These foods include high-fiber vegetables, lean proteins, and fruits, which help in reducing calorie intake while maintaining essential nutrients.",
+    "category": "medium weight loss"
+  },
+  {
+    "articleId": "15",
+    "title": "High-Intensity Interval Training (HIIT) for Weight Loss",
+    "description": "Learn how HIIT can be an effective workout for weight loss for individuals below 60 kg. This article includes HIIT workout plans, techniques, and tips on maximizing calorie burn.",
+    "createdBy": "Coach Emily White",
+    "content": "HIIT is a powerful workout method for weight loss in individuals below 60 kg. The article provides HIIT workout plans that alternate between high-intensity exercises and rest periods, techniques for effective calorie burning, and tips to get the most out of your HIIT sessions.",
+    "category": "medium weight loss"
+  },
+  {
+    "articleId": "16",
+    "title": "Meal Planning for Weight Loss Under 60 kg",
+    "description": "Effective meal planning is crucial for losing weight under 60 kg. This article provides sample meal plans, calorie goals, and tips on how to prepare meals that will help you achieve your weight loss goals.",
+    "createdBy": "Coach Daniel Harris",
+    "content": "Meal planning for weight loss under 60 kg involves creating meal plans that are low in calories but high in nutrients. The article offers sample meal plans that meet calorie goals, tips on portion control, and advice on preparing meals that promote weight loss.",
+    "category": "medium weight loss"
+  },
+  {
+    "articleId": "17",
+    "title": "Avoiding Plateaus in Your Weight Loss Journey",
+    "description": "Avoid common weight loss plateaus with these strategies. This article provides tips and techniques to ensure continuous progress in your weight loss journey.",
+    "createdBy": "Coach Chris Brown",
+    "content": "Weight loss plateaus are common, but they can be avoided with proper strategies. The article offers tips such as varying your workout routine, adjusting calorie intake, and staying consistent with meal planning to ensure continuous progress in your weight loss journey.",
+    "category": "medium weight loss"
+  },
+  {
+    "articleId": "18",
+    "title": "Supplements for Weight Loss Under 60 kg",
+    "description": "Explore the role of supplements in aiding weight loss under 60 kg. This article discusses different supplements that can support your diet and exercise routine for effective weight loss.",
+    "createdBy": "Coach Jennifer Lee",
+    "content": "Supplements can aid in weight loss for individuals under 60 kg by providing additional nutrients that support fat burning and metabolism. The article discusses various supplements such as thermogenics, green tea extract, and fiber supplements, and how they can complement your diet and exercise routine.",
+    "category": "medium weight loss"
+  },
+  {
+    "articleId": "19",
+    "title": "Strategies for Gaining Weight Above 90 kg",
+    "description": "This article provides a comprehensive guide on weight gain strategies for individuals weighing above 90 kg. It covers dietary adjustments, strength training, and lifestyle changes necessary for healthy weight gain.",
+    "createdBy": "Coach Kevin Black",
+    "content": "For individuals weighing above 90 kg, gaining weight can be achieved by adjusting diet to increase calorie intake with nutrient-dense foods, incorporating strength training to build muscle mass, and making lifestyle changes like improving sleep quality and reducing stress.",
+    "category": "medium weight gain"
+  },
+  {
+    "articleId": "20",
+    "title": "Top Foods to Support Weight Gain for Over 90 kg",
+    "description": "Discover the top foods that can help you gain weight healthily for individuals above 90 kg. This article lists nutrient-dense foods that are essential for increasing muscle mass and overall body weight.",
+    "createdBy": "Coach Olivia Green",
+    "content": "This article lists nutrient-dense foods that support weight gain for individuals over 90 kg. These foods include high-calorie and protein-rich options such as nuts, lean meats, and whole grains that help increase muscle mass and overall weight.",
+    "category": "medium weight gain"
+  },
+  {
+    "articleId": "21",
+    "title": "Strength Training Tips for Weight Gain Above 90 kg",
+    "description": "Learn how strength training can aid in weight gain for individuals above 90 kg. This article includes workout plans, tips on lifting techniques, and how to progressively increase weight for optimal results.",
+    "createdBy": "Coach Brandon White",
+    "content": "Strength training is essential for weight gain in individuals above 90 kg. The article provides workout plans focused on resistance exercises, tips on lifting techniques to avoid injury, and guidance on progressively increasing weights to ensure continuous muscle growth.",
+    "category": "medium weight gain"
+  },
+  {
+    "articleId": "22",
+    "title": "Meal Planning for Weight Gain Above 90 kg",
+    "description": "Effective meal planning is crucial for gaining weight above 90 kg. This article provides sample meal plans, calorie goals, and tips on how to prepare meals that will help you achieve your weight gain goals.",
+    "createdBy": "Coach Emma Thompson",
+    "content": "Meal planning for weight gain above 90 kg involves creating sample meal plans that meet high-calorie goals and include nutrient-dense foods. The article offers tips on meal preparation to ensure meals are balanced and support your weight gain objectives.",
+    "category": "medium weight gain"
+  },
+  {
+    "articleId": "23",
+    "title": "Avoiding Common Pitfalls in Weight Gain",
+    "description": "Avoid these common mistakes when trying to gain weight above 90 kg. This article highlights the pitfalls and provides solutions to ensure your weight gain journey is successful and sustainable.",
+    "createdBy": "Coach Lucas Clark",
+    "content": "Common pitfalls in weight gain include relying too much on junk food, not tracking progress, and neglecting exercise. The article provides solutions such as focusing on healthy, nutrient-dense foods, tracking your weight gain progress, and maintaining a consistent strength training routine.",
+    "category": "medium weight gain"
+  },
+  {
+    "articleId": "24",
+    "title": "Supplements to Support Weight Gain for Over 90 kg",
+    "description": "Explore the role of supplements in aiding weight gain for individuals above 90 kg. This article discusses different supplements that can support your diet and exercise routine to help you gain weight effectively.",
+    "createdBy": "Coach Chloe Martin",
+    "content": "Supplements can support weight gain for individuals over 90 kg by providing additional nutrients necessary for muscle growth and overall weight increase. The article discusses supplements such as protein powders, creatine, and mass gainers, and how they can enhance your diet and exercise regimen.",
+    "category": "medium weight gain"
+  },
+  {
+    "articleId": "25",
+    "title": "Heavy Weight Loss: Comprehensive Strategies",
+    "description": "This article provides a comprehensive guide on weight loss strategies for individuals weighing above 90 kg. It covers dietary adjustments, exercise routines, and lifestyle changes necessary for healthy weight loss.",
+    "createdBy": "Coach Gavin Scott",
+    "content": "For individuals weighing above 90 kg, effective weight loss strategies include making dietary adjustments to reduce calorie intake, incorporating regular exercise routines that combine cardio and strength training, and making lifestyle changes like improving sleep quality and managing stress.",
+    "category": "heavy weight loss"
+  },
+  {
+    "articleId": "26",
+    "title": "Best Foods for Heavy Weight Loss",
+    "description": "Discover the best foods that can help you lose weight healthily for individuals above 90 kg. This article lists nutrient-dense foods that are essential for maintaining muscle mass while shedding excess fat.",
+    "createdBy": "Coach Heather Gray",
+    "content": "The article lists the best nutrient-dense foods that support healthy weight loss for individuals above 90 kg. These foods help maintain muscle mass and promote fat loss. Examples include lean proteins, vegetables, and whole grains, which are low in calories but high in essential nutrients.",
+    "category": "heavy weight loss"
+  },
+  {
+    "articleId": "27",
+    "title": "Cardio Workouts for Heavy Weight Loss",
+    "description": "Learn how cardio workouts can aid in weight loss for individuals weighing above 90 kg. This article includes workout plans, tips on different cardio exercises, and how to effectively burn calories for optimal results.",
+    "createdBy": "Coach Greg Carter",
+    "content": "Cardio workouts are effective for weight loss in individuals weighing above 90 kg. The article includes various workout plans such as running, cycling, and swimming, along with tips on how to perform these exercises to maximize calorie burn and achieve optimal weight loss results.",
+    "category": "heavy weight loss"
+  },
+  {
+    "articleId": "28",
+    "title": "Meal Planning for Heavy Weight Loss",
+    "description": "Effective meal planning is crucial for losing weight above 90 kg. This article provides sample meal plans, calorie goals, and tips on how to prepare meals that will help you achieve your weight loss goals.",
+    "createdBy": "Coach Megan Evans",
+    "content": "Effective meal planning for weight loss above 90 kg involves creating meal plans that align with calorie goals and include healthy, low-calorie foods. The article provides sample meal plans and tips on meal preparation to ensure that meals support your weight loss goals.",
+    "category": "heavy weight loss"
+  },
+  {
+    "articleId": "29",
+    "title": "Overcoming Plateaus in Heavy Weight Loss",
+    "description": "Avoid common weight loss plateaus with these strategies. This article provides tips and techniques to ensure continuous progress in your weight loss journey.",
+    "createdBy": "Coach Connor Wright",
+    "content": "Weight loss plateaus are common in heavy weight loss, but they can be overcome with proper strategies. The article offers tips such as varying your workout routine, adjusting calorie intake, and staying consistent with meal planning to ensure continuous progress in your weight loss journey.",
+    "category": "heavy weight loss"
+  },
+  {
+    "articleId": "30",
+    "title": "Supplements for Heavy Weight Loss",
+    "description": "Explore the role of supplements in aiding weight loss for individuals above 90 kg. This article discusses different supplements that can support your diet and exercise routine to help you lose weight effectively.",
+    "createdBy": "Coach Sandra Lee",
+    "content": "Weight loss plateaus are common in heavy weight loss, but they can be overcome with proper strategies. The article offers tips such as varying your workout routine, adjusting calorie intake, and staying consistent with meal planning to ensure continuous progress in your weight loss journey.",
+    "category" :"heavy weight loss"
+  }
+]
